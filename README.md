@@ -1,4 +1,4 @@
-# OTP_Arduino
+# LOCKATOR
 An arduino based OTP lock system with live tracking
 
 ## The H/W:-
